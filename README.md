@@ -1,5 +1,5 @@
 # 🔥All-Father🔥
-##### 🗿 This is a test project while going through The Odin Project.
+##🗿 This is a test project while going through The Odin Project.
 
 ### I am working on using markdown here.
 
