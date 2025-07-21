@@ -3,5 +3,5 @@
 
 **I am working on using markdown here.**
 
-I have used ***_Obsidian_*** a little bit, but have gotten rusty on what the actual markdown commands are.
+I have used <u>Obsidian</u> a little bit, but have gotten rusty on what the actual markdown commands are.
 
